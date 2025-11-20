@@ -1,6 +1,6 @@
 # Harbor-Datagen Architecture
 
-This document provides a comprehensive technical overview of the harbor-datagen system architecture, designed for senior software engineers working on agent-driven data generation, evaluation infrastructure, or benchmark development.
+This document provides a comprehensive technical overview of the harbor-datagen system architecture, designed for engineers working on agent-driven data generation, evaluation infrastructure, or benchmark development.
 
 ## Table of Contents
 
