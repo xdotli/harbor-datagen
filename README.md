@@ -1,6 +1,6 @@
-# Validated Tasks
+# Harbor Data gen
 
-This directory contains Harbor tasks that have been validated and confirmed working with the Claude Code agent.
+This directory contains Harbor format tasks that are generated, validated, built, and reviewed by multiple Claude Code agents. This is a proof of concept of using agents to scale the data generation process for evaluation as well as trianing. 
 
 ## Tasks
 
